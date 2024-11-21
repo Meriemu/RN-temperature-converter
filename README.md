@@ -10,17 +10,18 @@ A simple React Native project that converts temperatures between Fahrenheit (°F
 
 ## Tech Stack
 React Native: For building the cross-platform mobile application.
-JavaScript/TypeScript: Core programming language for logic and components.
+JavaScript: Core programming language for logic and components.
 
 ## Installation
 Clone this repository to your local machine:
  
 `git clone https://github.com/Meriemu/RN-temperature-converter.git`
+
 `cd temperature-converter`
 
 ## Install dependencies:
 `npm install`
+
 Run the application:
- 
 `npx expo start`
 Open the app on an emulator or your mobile device using the Expo Go app.
