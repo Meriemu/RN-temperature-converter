@@ -15,7 +15,7 @@ JavaScript/TypeScript: Core programming language for logic and components.
 ## Installation
 Clone this repository to your local machine:
  
-`git clone [https://github.com/yourusername/temperature-converter.git](https://github.com/Meriemu/RN-temperature-converter.git)`
+`git clone https://github.com/Meriemu/RN-temperature-converter.git`
 `cd temperature-converter`
 
 ## Install dependencies:
