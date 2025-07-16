@@ -30,3 +30,29 @@ This project was created as a small personal exercise to practice fundamental pr
 git clone https://github.com/Meriemu/RN-temperature-converter.git
 cd temperature-converter
 ```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the application
+
+```bash
+npx expo start
+```
+
+### 4. Run on your device
+
+- 📱 Open the Expo Go app and scan the QR code
+
+- 💻 Or run it on an emulator from the Expo developer tools
+
+## 📸 Preview
+
+![alt text](image.png)
+
+## 🧑‍💻 Author
+
+Meryem ACHEMLAL – https://github.com/Meriemu
