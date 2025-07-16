@@ -1,50 +1,32 @@
-# Welcome to your Expo app 👋
+# 🌡️ React Native Temperature Converter
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A simple mobile application built with [**React Native**](https://reactnative.dev/) and [**Expo**](https://expo.dev), allowing users to convert temperatures between **Fahrenheit (°F)** and **Celsius (°C)**.  
+This project was created as a small personal exercise to practice fundamental programming concepts and mobile app development.
 
-## Get started
+---
 
-1. Install dependencies
+## ✨ Features
 
-   ```bash
-   npm install
-   ```
+- 🔁 Convert from **Fahrenheit** to **Celsius** and vice versa
+- 💡 Simple and intuitive **user interface**
+- 🧪 Input validation for **numeric and float values**
+- 📱 **Cross-platform** (iOS & Android) via Expo
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🛠️ Tech Stack
 
-In the output, you'll find options to open the app in a
+- ⚛️ **React Native** – for building the cross-platform mobile app
+- 🧠 **TypeScript** – for typed components and improved code reliability
+- 🚀 **Expo** – for seamless development and testing
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🚀 Getting Started
 
-## Get a fresh project
-
-When you're ready, run:
+### 1. Clone the repository
 
 ```bash
-npm run reset-project
+git clone https://github.com/Meriemu/RN-temperature-converter.git
+cd temperature-converter
 ```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
