@@ -53,6 +53,13 @@ npx expo start
 
 ![alt text](image.png)
 
+## 🔗 Live Demo
+
+👉 Test the app via Expo: [Click here to open](https://expo.dev/accounts/mitsumi/projects/RN-temperature-converter/updates/3556f70a-00b9-4023-856a-2150d8492ad5)
+
+📱 Scan the QR code using the **Expo Go** app to preview the app on your mobile device.
+![alt text](image-1.png)
+
 ## 🧑‍💻 Author
 
 Meryem ACHEMLAL – https://github.com/Meriemu

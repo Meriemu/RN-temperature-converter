@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RN-temperature-converter",
-    "slug": "RN-temperature-converter",
+    "name": "React-native temperature converter",
+    "slug": "rn-temperature-converter",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,6 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    } 
   }
 }
