@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "React-native temperature converter",
+    "name": "ReactNative-temperature-converter",
     "slug": "rn-temperature-converter",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -9,14 +9,19 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mitsumi.rntemperatureconverter",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.mitsumi.rntemperatureconverter"
     },
     "web": {
       "bundler": "metro",
@@ -37,6 +42,18 @@
     ],
     "experiments": {
       "typedRoutes": true
-    } 
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "5d245ce6-5627-497b-b795-de1bec30d3d8"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5d245ce6-5627-497b-b795-de1bec30d3d8"
+    }
   }
 }

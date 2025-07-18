@@ -27,9 +27,9 @@ export default function RootLayout() {
   const [fontsLoaded] = useFonts({
     PermanentMarker: permanentMarker,
   });
-  if (!fontsLoaded) {
-    return null;
-  }
+  // if (!fontsLoaded) {
+  //   return null;
+  // }
   const [value, setValue] = useState(DEFAULT_TEMP);
   const [currentUnit, securrentUnit] = useState(DEFAULT_UNIT);
   const [currentBg, setcurrentBg] = useState();
@@ -42,7 +42,6 @@ export default function RootLayout() {
 
   const onConvert = () => {
     securrentUnit(oppositeUnit);
-    console.log("firs : t", currentUnit);
   };
 
   useEffect(() => {
